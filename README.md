@@ -14,7 +14,7 @@
 
 ---
 
-** The code consists of 54 lines. **
+**The code consists of 54 lines.**
 
 ---
 
